@@ -1,0 +1,9 @@
+E:\Projects\C#\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+E:\Projects\C#\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+E:\Projects\C#\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+E:\Projects\C#\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+E:\Projects\C#\Lab1\Lab1\bin\Debug\Lab1.exe.config
+E:\Projects\C#\Lab1\Lab1\bin\Debug\Lab1.exe
+E:\Projects\C#\Lab1\Lab1\bin\Debug\Lab1.pdb
+E:\Projects\C#\Lab1\Lab1\obj\Debug\Lab1.exe
+E:\Projects\C#\Lab1\Lab1\obj\Debug\Lab1.pdb
